@@ -1,5 +1,5 @@
 # testrepo
 
-## Editing the file
+## Applied Data Science Capstone by IBM (Assignments)
 
-It's a markdown file in this repository.
+Repository of all the assignments and hands-on lab notebooks present in the course Applied Data Science Capstone by IBM in Coursera
